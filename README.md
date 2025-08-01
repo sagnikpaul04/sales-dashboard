@@ -50,3 +50,6 @@ Power BI Desktop (latest version recommended)
 📄 License
 This project is open for personal or educational use. For commercial usage, please contact the author.
 
+📷 Preview
+https://github.com/sagnikpaul04/sales-dashboard/blob/main/Screenshot_sales%20dashboard.png
+
