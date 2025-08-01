@@ -1,5 +1,6 @@
 # sales-dashboard
 📊 Power BI Sales Dashboard
+
 This repository contains an interactive Sales Dashboard built using Power BI to visualize and analyze key sales metrics for a business.
 
 🚀 Features
